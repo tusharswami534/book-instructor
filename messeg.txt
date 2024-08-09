@@ -1,0 +1,4 @@
+LOGO IMG URL: "https://i.postimg.cc/0jRChNFh/image-2.png";
+hero-section-bg-img:"https://i.postimg.cc/PrdS7prZ/hero-section-img.png";
+bg-shadow-img:  "https://i.postimg.cc/j59T6GX9/bg-shadow.png"
+
